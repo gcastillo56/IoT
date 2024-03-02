@@ -1,0 +1,21 @@
+{
+  "name": "proyectof",
+  "version": "1.0.0",
+  "description": "Proyecto de conexion de dispositivos IoT a Mongo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "IoT",
+    "MongoDB",
+    "Node.js"
+  ],
+  "author": "GCastillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongoose": "^8.2.0"
+  }
+}
